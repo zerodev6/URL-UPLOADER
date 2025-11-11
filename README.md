@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d11e637d-b3da-42d6-9346-fe399665ca5c" alt="Telegram URL Uploader Bot" width="100%"/>
+<img src="https://github.com/user-attachments/assets/fe91a83f-e378-4391-a5d4-18f5897ca7e3" alt="Telegram URL Uploader Bot" width="100%"/>
 
 [![Python](https://img.shields.io/badge/Python-3.13.7-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pyrogram](https://img.shields.io/badge/Pyrogram-2.7.4-3776AB?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.pyrogram.org/)
